@@ -1,0 +1,12 @@
+.parentDiv{
+    display: flex;
+    flex-direction: row;
+    color: white;
+
+   
+}
+.parentDiv>div{
+    background-color:black;
+    
+    text-align: center;
+}
